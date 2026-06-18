@@ -1,0 +1,12 @@
+﻿# Compilados
+bin/
+*.class
+
+# Pastas de IDE
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+Thumbs.db
+.DS_Store
