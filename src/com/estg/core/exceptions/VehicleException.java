@@ -1,4 +1,5 @@
-package com.estg.pickingManagement.exceptions;
+package com.estg.core.exceptions;
+
 
 public class VehicleException extends Exception {
 
